@@ -1,6 +1,6 @@
 # Core Health and Wellness Center
 
-This project was built with JS, React, HTML, CSS, Firebase Authentication, Bootstrapp [Live LInk](https://github.com/facebook/create-react-app).
+This project was built with JS, React, HTML, CSS, Firebase Authentication, Bootstrap.
 
 ## Project Features:
 * This website is based on Health Service System.
